@@ -1,0 +1,14 @@
+[alias]
+	br = branch
+	ac = !git add -A && git commit
+	st = status
+	ac = !git add -A && git commit -m
+	psd = push origin develop
+	pld = pull origin develop
+	psm = push origin master
+	plm = pull origin master
+	co = checkout
+	df = diff
+[user]
+	email = anlaira.scalabrini@gmail.com
+	name = Analira Scalabrini
